@@ -66,13 +66,15 @@ This project is ideal for:
 SketchGenerator/
 │
 ├── Data/
-│ ├── Real/
-│ │ └── real.jpg
-│ └── sketch/
-│ └── real_sketch.png
+│   ├── Real/
+│   │   └── real.jpg
+│   └── Sketch/
+│       └── real_sketch.png
 │
 ├── pencil_sketch_generator.py
-└── README.md
+├── README.md
+└── LICENSE
+
 
 
 ---
